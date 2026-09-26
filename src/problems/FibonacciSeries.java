@@ -4,11 +4,15 @@ import java.util.Scanner;
 
 public class FibonacciSeries {
     public static void Fibonacci(int n) {
+        if(n<0)return;
+        System.out.print("0 ");
+        if(n==0)return;
+        System.out.print("1 ");
         int first = 0;
         int second = 1;
-        for(int i=1;i<=n;i++) {
-            System.out.print(first + " ");
-            int next = first + second;
+         while (first+second<=n){
+             int next = first + second;
+             System.out.print(next+ " ");
             first = second;
             second = next;
         }
@@ -16,7 +20,7 @@ public class FibonacciSeries {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.print("enter the number");
+        System.out.print("enter the number: ");
         int n = sc.nextInt();
         Fibonacci(n);
     }

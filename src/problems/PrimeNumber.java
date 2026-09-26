@@ -17,6 +17,7 @@ public class PrimeNumber {
 
     public static void main(String[] args) {
         Scanner sc  = new Scanner(System.in);
+        System.out.print("ente a num: ");
         int n = sc.nextInt();
         System.out.println(isPrime(n));
     }
