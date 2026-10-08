@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="052a80ca-75f9-4b6d-9a86-23acf6284b8d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/Arrays/DuplicateArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays_Problem/DuplicateArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/FirstRepeatingElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays_Problem/FirstRepeatingElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/Maximum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays_Problem/Maximum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/ReverseArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays_Problem/ReverseArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/SecondMaxArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays_Problem/SecondMaxArray.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="20" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0000000007425165" />
+      <entry key="S5" value="1.0003181062973898" />
+      <entry key="S10" value="1.0315010091865577" />
+      <entry key="S30" value="2.2632520045209605" />
+      <entry key="S60" value="4.705105934635923" />
+      <entry key="M2" value="8.601437899073055" />
+      <entry key="M5" value="21.377532121415985" />
+      <entry key="M10" value="43.47922440263698" />
+      <entry key="M15" value="61.204460328841044" />
+      <entry key="M30" value="92.02286764150398" />
+      <entry key="H1" value="115.7407104578725" />
+      <entry key="H2" value="130.61488952828225" />
+      <entry key="H4" value="138.9663043211223" />
+      <entry key="D1" value="146.44448551984146" />
+      <entry key="W1" value="147.77652734117999" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.1980467542823851E-213" />
+      <entry key="MS500" value="2.616175905585334E-43" />
+      <entry key="S2" value="3.036388781081636E-11" />
+      <entry key="S5" value="1.1079261901593446E-4" />
+      <entry key="S10" value="0.020536893666690967" />
+      <entry key="S30" value="0.8811235301348154" />
+      <entry key="S60" value="2.488763159860698" />
+      <entry key="M2" value="4.804267649503362" />
+      <entry key="M5" value="9.40358640118298" />
+      <entry key="M10" value="14.546956331676412" />
+      <entry key="M15" value="18.254256292375672" />
+      <entry key="M30" value="24.557479373397204" />
+      <entry key="H1" value="29.395171567763146" />
+      <entry key="H2" value="32.43603050828686" />
+      <entry key="H4" value="34.146687556975316" />
+      <entry key="D1" value="35.68065800664972" />
+      <entry key="W1" value="35.954116132020644" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.55864356903611" />
+      <entry key="MS500" value="0.8900757332524964" />
+      <entry key="S2" value="0.9713074960516075" />
+      <entry key="S5" value="0.9887709610841864" />
+      <entry key="S10" value="1.0411614763640964" />
+      <entry key="S30" value="3.0811648293263083" />
+      <entry key="S60" value="7.107520837231532" />
+      <entry key="M2" value="13.315919864308478" />
+      <entry key="M5" value="30.685675767886327" />
+      <entry key="M10" value="57.93686937430357" />
+      <entry key="M15" value="79.37938710818766" />
+      <entry key="M30" value="116.52444986085709" />
+      <entry key="H1" value="145.10189698491595" />
+      <entry key="H2" value="163.03206200237918" />
+      <entry key="H4" value="173.10304258318448" />
+      <entry key="D1" value="182.12340795947125" />
+      <entry key="W1" value="183.7303935705757" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3IR3WEhi6pzR4eFfrWa3ClGnb1w" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.LC167.executor": "Run",
+    "Application.LC_88.executor": "Run",
+    "Application.Problem1.executor": "Run",
+    "Application.TwoSum.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "1-Arrays",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/asus/Desktop/Java_DSA_1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/asus/Desktop/Java_DSA_1/src/Main.java",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-34e2839f716b-intellij.indexing.shared.core-IU-262.9437.185" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.9437.185" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="052a80ca-75f9-4b6d-9a86-23acf6284b8d" name="Changes" comment="" />
+      <created>1787713587657</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1787713587657</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
