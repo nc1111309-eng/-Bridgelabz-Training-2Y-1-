@@ -1,13 +1,15 @@
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
-void main() {
-    //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
-    // to see how IntelliJ IDEA suggests fixing it.
-    IO.println(String.format("Hello and welcome!"));
-
-    for (int i = 1; i <= 5; i++) {
-        //TIP Press <shortcut actionId="Debug"/> to start debugging your code. We have set one <icon src="AllIcons.Debugger.Db_set_breakpoint"/> breakpoint
-        // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
-        IO.println("i = " + i);
+//1. Reverse a string using recursion.
+//2. Check whether a string is a palindrome.
+//3. Count the vowels in a string.
+//4. Count the occurrences of a given character.
+//5. Print each character of a string on a new line.
+//6. Remove all occurrences of a character from a string.
+//7. Replace every occurrence of 'a' with 'b'.
+//8. Find the length of a string without using length().
+//9. Check whether two strings are equal without using equals().
+//10.Remove duplicate characters from a string.
+class main{
+    static void main() {
+        System.out.println("Hello world");
     }
 }

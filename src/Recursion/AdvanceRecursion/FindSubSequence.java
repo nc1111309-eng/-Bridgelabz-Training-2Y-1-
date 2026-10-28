@@ -6,7 +6,7 @@ import java.util.Collections;
 public class FindSubSequence {
     static void main() {
         String s = "abc";
-        System.out.println(getSSQ(s));
+        System.out.print(getSSQ(s));
     }
     public static ArrayList<String> getSSQ(String s){
         ArrayList<String> ans = new ArrayList<>();
