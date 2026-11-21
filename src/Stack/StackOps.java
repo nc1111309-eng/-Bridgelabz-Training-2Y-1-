@@ -2,7 +2,7 @@ package Stack;
 
 public class StackOps {
 
-    int arr[] = new int[5];
+    int [] arr = new int[5];
     int top = 0;
 
     public void push(int data){
@@ -15,8 +15,4 @@ public class StackOps {
             System.out.print(n+" ");
         }
     }
-
-
-
-
 }
